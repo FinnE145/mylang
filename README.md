@@ -3,7 +3,7 @@
 Mylang is a high-level multipurpose language based off of python.\
 **Official Website:** https://finne145.pythonanywhere.com/mylang
 
-> Note: Mylang is a placeholder name.
+> Note: Mylang is a placeholder name.\
 > Note: Mylang has not been released yet. This repository will be updated when version 1 is realeased.
 
 ## Features:
