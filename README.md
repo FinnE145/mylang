@@ -22,7 +22,7 @@ Mylang is a high-level multipurpose language based off of python.\
 * [Mylang home](https://finne145.pythonanywhere.com/mylang)
 * [Download](https://finne145.pythonanywhere.com/mylang/download)
 * [Documentation](https://finne145.pythonanywhere.com/mylang/docs)
-* [Operator Result Tool](https://finne145.pythonanywhere.com/mylang/docs/operators#resulttool) (Find out what a combination of data types and operators will result in)
+* [Operator Result Tool](https://finne145.pythonanywhere.com/mylang/docs/operators#resulttool) (Find out what a combination of data types and an operator will result in)
 
 ## Release Notes:
 
