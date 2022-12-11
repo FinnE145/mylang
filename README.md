@@ -3,7 +3,8 @@
 Mylang is a high-level multipurpose language based off of python.\
 **Official Website:** https://finne145.pythonanywhere.com/mylang
 
-> Note: Mylang has not been released yet. This repository will be updated when
+> Note: Mylang is a placeholder name.
+> Note: Mylang has not been released yet. This repository will be updated when version 1 is realeased.
 
 ## Features:
 
@@ -19,6 +20,7 @@ Mylang is a high-level multipurpose language based off of python.\
 ## Website:
 
 * [Mylang home](https://finne145.pythonanywhere.com/mylang)
+* [Download](https://finne145.pythonanywhere.com/mylang/download)
 * [Documentation](https://finne145.pythonanywhere.com/mylang/docs)
 * [Operator Result Tool](https://finne145.pythonanywhere.com/mylang/docs/operators#resulttool) (Find out what a combination of data types and operators will result in)
 
