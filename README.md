@@ -1,6 +1,6 @@
 # Mylang
 
-Mylang is a high-level multipurpose language based off of python.\
+Mylang is a familiar but highly object-oriented multipurpose language based off of python.\
 **Official Website:** https://finne145.pythonanywhere.com/mylang
 
 > Note: Mylang is a placeholder name.\
